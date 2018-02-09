@@ -1,4 +1,9 @@
 Emmanuel V. Quiachon Jr.
 Nico Mercado
+<<<<<<< HEAD
 John Russel M. Garcia
 John Russel M. Garcia
+=======
+asdfsadf
+asdfsadf
+>>>>>>> 00913b2a6539640a7e3fa5f897b50c35679eb155
